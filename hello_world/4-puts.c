@@ -5,5 +5,5 @@ int main()
 puts ("Programming is like building a multilingual puzzle");
 	return 0;
 }
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o 4-puts 4-puts.c
 
-gcc -o 4-puts -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c 
