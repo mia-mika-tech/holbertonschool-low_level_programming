@@ -6,4 +6,4 @@ puts ("Programming is like building a multilingual puzzle");
 	return 0;
 }
 
-gcc -o CFILE $CFILE 
+gcc -o 4-puts_0 
