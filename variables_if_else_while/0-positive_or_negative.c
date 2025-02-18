@@ -1,5 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
+
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
@@ -10,12 +12,15 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	
-	if (n > 0)
+	if (n > 0){
 		printf("%d est positif\n", n);
-	else if (n == 0)
+	}
+	else if (n == 0){
 		printf("%d est nul\n", n);
-	else
+	}
+	else {
 		printf("%d est négatif\n", n);
+	}
 
 	return (0);
 }
