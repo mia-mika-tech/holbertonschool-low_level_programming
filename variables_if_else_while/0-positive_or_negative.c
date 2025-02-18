@@ -22,7 +22,7 @@ int main(void)
 	else if (n ==0)
 		printf("%d est nul\n", n);
 	else
-		printf("%d est nÃgatif\n", n);
-
+		printf("%d est negatif\n", n);
 	return (0);
+
 }
