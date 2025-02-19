@@ -20,5 +20,5 @@ int main(void)
 		putchar(ch);
 	}
 
-	return ('\n');
+	return (0);
 }
