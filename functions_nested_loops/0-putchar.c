@@ -16,9 +16,9 @@ void print_putchar(void)
 
 	for (n = 0; ch[n] != '\0'; n++)
 	{
-		_putchar(ch[n]);
+		putchar(ch[n]);
 	}
 
-	_putchar('\n');
+	putchar('\n');
 
 }
