@@ -11,14 +11,14 @@
 
 void print_putchar(void)
 {
-       	char ch[] = "_putchar";
+       	char str[] = "_putchar";
 	int n;
 
-	for (n = 0; ch[n] != '\0'; n++)
+	for (n = 0; str[n] != '\0'; n++)
 	{
-		putchar(ch[n]);
+		_putchar(str[n]);
 	}
 
-	putchar('\n');
+	_putchar('\n');
 
 }
