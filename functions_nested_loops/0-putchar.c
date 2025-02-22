@@ -9,16 +9,19 @@
  * Return: Always 0 (Success)
 */
 
-void print_putchar(void)
+int main(void)
 {
        	char str[] = "_putchar";
-	int n;
+	int n = 0;
 
-	for (n = 0; str[n] != '\0'; n++)
+	while (str[i] != '\0')
 	{
 		_putchar(str[n]);
+		n++;
 	}
 
 	_putchar('\n');
+
+	return (0);
 
 }
