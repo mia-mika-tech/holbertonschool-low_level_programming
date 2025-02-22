@@ -14,7 +14,7 @@ int main(void)
        	char str[] = "_putchar";
 	int n = 0;
 
-	while (str[i] != '\0')
+	while (str[n] != '\0')
 	{
 		_putchar(str[n]);
 		n++;
