@@ -2,6 +2,6 @@
 #define MAIN_H
 
 int _putchar(char ch);
-int _islower(int c);
+int _isalpha(int c);
 
 #endif
