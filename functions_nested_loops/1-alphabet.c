@@ -4,9 +4,10 @@
  * main - check the code
  *
  * print_alphabet - Displays the alphabet in lower case
- * Description: This function scrolls through the letters from 'a' to 'z' and displays them.
  *
- * Return: Always 0.
+ * Description: This function scrolls through the letters from 'a' to 'z' 
+ * and displays them.
+ *
  */
 
 void print_alphabet(void)
