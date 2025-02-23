@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _isalpha - Vérifie si un caractère est une lettre (minuscule ou majuscule)
- * @c: Le caractère à vérifier
+ * _isalpha - Checks whether a character is a letter (upper or lower case)
+ * @c: The character | check
  *
- * Return: 1 si c est une lettre, 0 sinon
+ * Return: 1 if c is a letter, 0 otherwise
  */
 
 int _isalpha(int c)
