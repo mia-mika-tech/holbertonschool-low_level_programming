@@ -3,8 +3,8 @@
 /**
  * print_alphabet - Displays the alphabet in lowercase.
  *
- * Description: This function scrolls through the letters from 'a' to 'z' and displays them
- * one by one using the `_putchar` function.
+ * Description: This function scrolls through the letters from 'a' to 'z' 
+   and displays them one by one using the `_putchar` function.
  *
  */
 
