@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_sign - Affiche le signe d'un nombre
- * @n: Le nombre à vérifier
+ * print_sign - Displays the sign of a number
+ * @n: The number | check
  *
- * Return: 1 si n est positif, 0 si n est nul, -1 si n est négatif
+ * Return: 1 if n is positive, 0 if n is zero, -1 if n is negative
  */
 
 int print_sign(int n)
