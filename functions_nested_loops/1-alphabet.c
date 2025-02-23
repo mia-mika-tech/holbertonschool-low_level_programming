@@ -1,6 +1,3 @@
-#include <stdlib.h>
-#include <time.h>
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -9,7 +6,7 @@
  * Return: Always 0.
  */
 
-int main(void)
+void print_alphabet(void)
 {
 	char ch;
 
@@ -18,6 +15,4 @@ int main(void)
 		_putchar(ch);
 	}
 	_putchar('\n');
-
-	return (0);
 }
