@@ -1,6 +1,4 @@
 #include "main.h"
-#include <stdio.h>
-#include <time.h>
 
 /**
  * times_table - Imprime la table des 9 fois, en commençant par 0.
