@@ -2,6 +2,6 @@
 #define MAIN_H
 
 int _putchar(char ch);
-void jack_bauer(void);
+void times_table(void); 
 
 #endif
